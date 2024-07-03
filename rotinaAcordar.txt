@@ -1,0 +1,17 @@
+1 - Levanto da cama
+2 - Lavo o rosto
+3 - Pego minha garrafa
+4 - A garrafa está vazia?
+	Sim = Pego a garrafa
+5 - Desço as escadas para a cozinha
+6 - Encho uma xícara de água
+7 - Coloco a xícara no micro-ondas
+8 - Estou com minha garrafa?
+	Sim = Coloco a garrafa para encher no filtro
+9 - O micro-ondas ja desligou?
+	Sim = Pego a xícara
+10 - A água da xícara está quente?
+	Sim = Adiciono meu café solúvel na água 
+	Não = Coloco de volta no micro-ondas
+11 - Café está pronto
+
